@@ -1,0 +1,3 @@
+﻿  telefonate.cpp
+c:\users\gary ograjsek\desktop\centralino\centralino\centralino\telefonate.cpp(16): warning C4101: 'risp': variabile locale senza riferimenti
+  Centralino.vcxproj -> C:\Users\Gary Ograjsek\Desktop\Centralino\Centralino\Debug\Centralino.exe
